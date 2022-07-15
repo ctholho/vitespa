@@ -1,3 +1,6 @@
+<p align='center'> This starter is archived. <a href="https://v3.nuxtjs.org">Nuxt 3</a> is a great alternative.
+</p>
+
 <p align='center'>
   <img src='https://user-images.githubusercontent.com/28910105/119210350-fc4cd600-baab-11eb-93b0-ce81184fc556.png' alt='Vitespa - the slower sibling of Vitesse, without SSG' width='600'/>
 
